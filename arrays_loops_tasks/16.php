@@ -10,5 +10,5 @@ foreach ($arr as $e){
         echo '<br>' . "{$e}, ";
         $i = 1;
     }
-    }
+}
 
